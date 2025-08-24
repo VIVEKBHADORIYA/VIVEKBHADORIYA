@@ -11,11 +11,10 @@
 - 🎓 Aspiring **Software Developer** with strong interest in **Web Development & Problem Solving**  
 - 🌱 Currently exploring **Next.js & MERN stack**  
 - 💼 Open to **collaborations** on exciting projects  
-- 📫 Reach me at: [your email] | [LinkedIn link]  
+- 📫 Reach me at: viveksinghbhadoriya4812@gmail.com | www.linkedin.com/in/vivek-bhadoriya  
 
 ---
 
-## 🔧 Languages & Frameworks  
 ## 🔧 Languages & Frameworks  
 <p align="center">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
