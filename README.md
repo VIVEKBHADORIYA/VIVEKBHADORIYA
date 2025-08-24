@@ -13,7 +13,20 @@
 - 💼 Open to **collaborations** on exciting projects
 -  ⚡ Love exploring new technologies,connecting to new people
 -  🏆 Goal: To grow as a **Software Engineer** and contribute to impactful products  
-- 📫 Reach me at: viveksinghbhadoriya4812@gmail.com | www.linkedin.com/in/vivek-bhadoriya  | https://www.geeksforgeeks.org/user/viveksinghbhex62/
+## 📫 Connect with Me  
+
+<p align="center">
+  <a href="mailto:viveksinghbhadoriya4812@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/vivek-bhadoriya" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.geeksforgeeks.org/user/viveksinghbhex62/" target="_blank">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+  </a>
+</p>
+
 
 ---
 
