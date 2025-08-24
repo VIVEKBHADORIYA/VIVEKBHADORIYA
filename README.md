@@ -1,17 +1,19 @@
-## Hi there 👋,I'm Vivek Bhadoriya
+
 
 # Hi there, I'm Vivek 👋  
 
-💡 Passionate about building web applications and solving real-world problems through code.  
-🚀 Exploring **Full-Stack Development** and always eager to learn new technologies.  
+💡 Passionate about designing efficient software solutions and tackling complex problems through code.  
+🚀 Exploring **Software Development & System Design**, with a strong focus on scalability and performance.  
 
 ---
 
 ## 🧑‍💻 About Me  
-- 🎓 Aspiring **Software Developer** with strong interest in **Web Development & Problem Solving**  
+- 🎓  **Software Developer** with strong interest in **Full-stack development & Problem Solving**  
 - 🌱 Currently exploring **Next.js & MERN stack**  
-- 💼 Open to **collaborations** on exciting projects  
-- 📫 Reach me at: viveksinghbhadoriya4812@gmail.com | www.linkedin.com/in/vivek-bhadoriya  
+- 💼 Open to **collaborations** on exciting projects
+-  ⚡ Love exploring new technologies,connecting to new people
+-  🏆 Goal: To grow as a **Software Engineer** and contribute to impactful products  
+- 📫 Reach me at: viveksinghbhadoriya4812@gmail.com | www.linkedin.com/in/vivek-bhadoriya  | https://www.geeksforgeeks.org/user/viveksinghbhex62/
 
 ---
 
