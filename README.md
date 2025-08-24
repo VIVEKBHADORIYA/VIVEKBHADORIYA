@@ -12,21 +12,21 @@
 - 🌱 Currently exploring **Next.js & MERN stack**  
 - 💼 Open to **collaborations** on exciting projects
 -  ⚡ Love exploring new technologies,connecting to new people
--  🏆 Goal: To grow as a **Software Engineer** and contribute to impactful products  
+-  🏆 Goal: To grow as a **Software Engineer** and contribute to impactful products
+-  
 ## 📫 Connect with Me  
 
 <p align="center">
   <a href="mailto:viveksinghbhadoriya4812@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="gmail" width="40" height="40"/>
   </a>
   <a href="https://www.linkedin.com/in/vivek-bhadoriya" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" width="40" height="40"/>
   </a>
   <a href="https://www.geeksforgeeks.org/user/viveksinghbhex62/" target="_blank">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+    <img src="https://img.icons8.com/color/48/000000/GeeksforGeeks.png" alt="geeksforgeeks" width="40" height="40"/>
   </a>
 </p>
-
 
 ---
 
