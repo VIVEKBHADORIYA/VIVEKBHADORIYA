@@ -13,12 +13,12 @@
 - 💼 Open to **collaborations** on exciting projects
 -  ⚡ Love exploring new technologies,connecting to new people
 -  🏆 Goal: To grow as a **Software Engineer** and contribute to impactful products
--  
+  
 ## 📫 Connect with Me  
 
 <p align="center">
   <a href="mailto:viveksinghbhadoriya4812@gmail.com">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="gmail" width="40" height="40"/>
+    <img src="https://img.icons8.com/fluency/48/000000/new-post.png" alt="mail" width="40" height="40"/>
   </a>
   <a href="https://www.linkedin.com/in/vivek-bhadoriya" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" width="40" height="40"/>
@@ -27,6 +27,7 @@
     <img src="https://img.icons8.com/color/48/000000/GeeksforGeeks.png" alt="geeksforgeeks" width="40" height="40"/>
   </a>
 </p>
+
 
 ---
 
